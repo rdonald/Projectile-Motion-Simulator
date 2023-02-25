@@ -1,0 +1,15 @@
+debug/informationdialog.o
+debug/main.o
+debug/mainwindow.o
+debug/projectileengine.o
+debug/question.o
+debug/questionhandler.o
+debug/startupmenu.o
+debug/worldstate.o
+debug/moc_informationdialog.o
+debug/moc_mainwindow.o
+debug/moc_projectileengine.o
+debug/moc_question.o
+debug/moc_questionhandler.o
+debug/moc_startupmenu.o
+debug/moc_worldstate.o

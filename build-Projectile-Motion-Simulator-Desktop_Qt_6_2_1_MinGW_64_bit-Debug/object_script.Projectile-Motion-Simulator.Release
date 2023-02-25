@@ -1,0 +1,15 @@
+release/informationdialog.o
+release/main.o
+release/mainwindow.o
+release/projectileengine.o
+release/question.o
+release/questionhandler.o
+release/startupmenu.o
+release/worldstate.o
+release/moc_informationdialog.o
+release/moc_mainwindow.o
+release/moc_projectileengine.o
+release/moc_question.o
+release/moc_questionhandler.o
+release/moc_startupmenu.o
+release/moc_worldstate.o
